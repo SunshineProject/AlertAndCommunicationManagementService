@@ -1,0 +1,11 @@
+<sos:observation>
+                <om:OM_Observation gml:id="o2">
+                    <om:type xlink:href="http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_CountObservation"/>
+                    <om:phenomenonTime xlink:href="#phenomenonTime"/>
+                    <om:resultTime xlink:href="#phenomenonTime"/>
+                    <om:procedure xlink:href="http://www.52north.org/test/procedure/9"/>
+                    <om:observedProperty xlink:href="http://www.52north.org/test/observableProperty/9_2"/>
+                    <om:featureOfInterest xlink:href="#ssf_test_feature"/>
+                    <om:result xsi:type="xs:integer">4</om:result>
+                </om:OM_Observation>
+</sos:observation>

@@ -1,0 +1,120 @@
+material.id_material;material.ro;material.c;material.lambda_material;;
+Calcestruzzo a struttura chiusa confezionato con aggregati naturali;2000;880;1.16;2.9;69.0
+Calcestruzzo a struttura chiusa di argille espanse;1400;880;0.50;2.9;69.0
+Calcestruzzo a struttura aperta di argille espanse;700;920;0.21;60;3.3
+Calcestruzzo cellulare da autoclave;600;840;0.19;50;4.0
+Calcestruzzo di inerti espansi di origine vulcanica;1200;1250;0.47;62.51;3.2
+Calcestruzzo di perlite e vermiculite;250;840;0.13;62.51;3.2
+Carta e cartone;1000;1300;0.16;1.5;133.3
+Cartone bitumato;1100;1000;0.23;7.50E-02;2666.7
+Cartongesso in lastre;900;1090;0.21;23;8.7
+Cartone ondulato;100;1300;0.065;37.5;5.3
+Fibre di vetro (feltri resinati);14;840;0.048;150;1.3
+Fibre di vetro (pannelli semirigidi);30;840;0.040;150;1.3
+Fibre minerali da rocce feldspatiche (feltri resinati);30;840;0.045;150;1.3
+Fibre minerali da rocce feldspatiche (pannelli semirigidi);55;840;0.040;150;1.3
+Fibre minerali da rocce feldspatiche (pannelli rigidi);80;840;0.039;150;1.3
+Fibre minerali da rocce feldspatiche (pannelli in fibre orientate);100;840;0.048;150;1.3
+Fibre minerali da rocce basaltiche (feltri trapuntati);80;840;0.044;150;1.3
+Fibre minerali da loppe di altoforno (feltri);40;840;0.054;150;1.3
+Fibre minerali da loppe di altoforno (pannelli semirigidi e rigidi);80;840;0.046;150;1.3
+Malte di gesso per intonaci o in pannelli con inerti di vario tipo;900;840;0.41;18;11.1
+Intonaco di gesso puro;1200;840;0.35;18;11.1
+Intonaco di calce e gesso;1400;840;0.7;18;11.1
+Malta di calce o di calce e cemento;1800;840;0.9;8.5;23.5
+Malta di cemento;2000;840;1.4;8.5;23.5
+Mattoni pieni, forati, leggeri, ad alta resistenza;1200;840;0.73;27;7.4
+Abete (flusso perpendicolare alle fibre);450;2700;0.12;0.9;222.2
+Abete (flusso parallelo alle fibre);450;2700;0.18;6;33.3
+Pino (flusso perpendicolare alle fibre);550;2700;0.15;4.5;44.4
+Pino (flusso parallelo alle fibre);550;2700;0.22;9.28;21.6
+Acero (flusso perpendicolare alle fibre);710;2400;0.18;4.5;44.4
+Acero (flusso parallelo alle fibre);710;2400;0.27;9.28;21.6
+Quercia (flusso perpendicolare alle fibre);850;2400;0.22;4.5;44.4
+Quercia (flusso parallelo alle fibre);850;2400;0.32;9.28;21.6
+Siliconici, poliuretanici, acrilici;1200;1300;0.4;;
+Asfalto;2100;920;0.7;0.00938;21322.0
+Asfalto con sabbia;2300;880;1.15;0.09376;2133.1
+Bitume;1200;920;0.17;0.00976;20491.8
+Bitume con sabbia;1300;880;0.26;0.01875;10666.7
+Cartone catramato;1600;880;0.5;0.01875;10666.7
+Fogli di materiale sintetico;1100;1000;0.23;0.075;2666.7
+Argilla espansa in granuli da 3 a 25 mm;330;920;0.10;62.61;3.2
+Fibra di cellulosa;32;1300;0.058;62.51;3.2
+Perlite espansa in granuli da 0,1 a 2,3 mm;100;840;0.066;62.51;3.2
+Polistirolo espansi in granuli;15;;0.054;;
+Scorie espanse;600;840;0.13;62.51;3.2
+Vermiculite espansa in granuli da 0.1 a 12 mm;80;840;0.077;62.51;3.2
+Ciottoli e pietre frantumate;1500;840;0.7;37.5;5.3
+Ghiaia grossa senza argilla;1700;840;1.2;37.5;5.3
+Sabbia secca;1700;840;0.6;12.5;16.0
+Pomice naturale;400;840;0.08;62.51;3.2
+Cloruro di polivinile espanso rigido in lastre;30;1300;0.039;1.5;133.3
+Polietilene espanso estruso in continuo, non reticolato;30;2100;0.050;0.938;213.2
+Polietilene espanso estruso in continuo, reticolato;33;2100;0,048;0,938;213,2
+Polistirene espanso sinterizzato per alleggerimento strutture;15;1250;0,045;6,3;31,7
+Polistirene espanso sinterizzato, in lastre ricavate da blocchi (UNI 7819);25;1250;0.040;4.25;47.1
+Polistirene espanso sinterizzato, in lastre ricavate da blocchi;20;1250;0.044;3.15;63.5
+Polistirene espanso, in lastre stampate per termocompressione;20;1250;0.040;2;100.0
+Polistirene espanso estruso, con pelle;30;1250;0.036;1.042;191.9
+Polistirene espanso estruso, senza pelle;30;1250;0.041;1.4;142.9
+Poliuretani in lastre ricavate da blocchi;40;1250;0.032;1.5;133.3
+Polisocianurati in lastre ricavate da blocchi;32;1250;0.032;1.5;133.3
+Poliuretani espansi in situ;37;1300;0.035;3.9;51.3
+Resine fenoliche in lastre;35;1300;0.041;4.8;41.7
+Resine ureiche espanse in situ;12;1250;0.054;85;2.4
+Acrilonitrile-butadiene-stirene (ABS);1050;1550;0.28;;
+Carbammide e resine melamminiche con cariche;1500;;0.4;6.25;32.0
+Celluloide;1350;1700;0.35;;
+Ebanite, gomma dura;1150;1700;0.16;9.38;21.3
+Polimetilmetacrilato (PMMA);1200;;0.18;;
+Poliammide (PA);1100;;0.3;;
+Policarbonato (PC);1150;;0.23;;
+Politetrafluoroetilene (PTFE);2200;920;0.24;;
+Polietilene (PE);950;2100;0.35;3.75;53.3
+Policloruro di vinile (PVC);1400;1300;0.16;18.75;10.7
+Polistirene (PS);1100;1250;0.17;;
+Resine acriliche;1450;920;0.2;;
+Resine epossidiche;1200;;0.2;2.88;69.4
+Resine fenoliche con cariche organiche;1400;1300;0.3;;
+Resine poliestere con fibra di vetro;2000;1300;0.5;3.75;53.3
+Acciaio;7800;;52;;
+Acciaio inossidabile;8000;500;17;;
+Argento;10500;230;420;;
+Alluminio;2700;960;220;94;2.1
+Leghe di alluminio;2800;960;160;;
+Bronzo;8700;400;65;;
+Ferro puro;7870;460;80;;
+Ghisa;7200;550;50;;
+Nichel ;8800;460;65;;
+Ottone;8400;400;110;;
+Piombo;11300;200;35;;
+Rame;8900;380;380;;
+Zinco;7100;390;110;;
+Lastre a base di perlite espansa, fibre e leganti bituminosi;190;840;0.071;36;5.6
+Pannelli di fibre di legno duri ed extraduri;900;2100;0.16;26;7.7
+Pannelli di lana di legno con leganti inorganici;400;2100;0.097;63;3.2
+Pannelli di spaccato di legno e leganti inorganici;500;2100;0.14;6.25;32.0
+Pannelli di particelle pressati;600;2100;0.12;2.7;74.1
+Pannelli di particelle estrusi;700;2100;0.17;9;22.2
+Pannelli di sughero espanso puro;130;2100;0.045;8.35;24.0
+Pannelli di sughero espanso con leganti;130;2100;0.045;12.5;16.0
+Piastrelle;2300;840;1;0.94;212.8
+Ardesia;2700;840;2;;
+Basalto;2800;840;3.5;;
+Calcare;1900;840;1.5;;
+Dolomite;2700;840;1.8;;
+Feldspato;2500;840;2.4;;
+Gneiss;2700;840;3.5;;
+Granito;2500;840;3.2;;
+Lava;2200;840;2.9;;
+Marmo;2700;840;3;;
+Porfido;2200;840;2.9;;
+Schisto parallelo al piano di sfaldamento;2700;840;2.5;;
+Schisto normale al piano di sfaldamento;2700;840;1.4;;
+Steatite;2600;840;2.7;;
+Trachite;2300;840;2.9;;
+Tufo;1500;1300;0.63;;
+Lastre;225;840;0.076;;
+Vetro cellulare espanso;130;840;0.055;0.00000188;106382978.7
+Vetro da finestre;2500;840;1;0.00000188;106382978.7

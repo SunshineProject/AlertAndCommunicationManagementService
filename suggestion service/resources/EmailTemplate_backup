@@ -1,0 +1,165 @@
+Daily heating schedule suggestion for: </br>
+<b> $buildingName </b> </br></br></br>
+
+Heating suggestion for day:</br>
+<b> $dateNow </b> </br></br></br>
+
+Requested comfort temperature: </br>
+<b> $temperatureRequest &degC </b> </br></br></br>
+
+Requested comfort periods: </br>
+<b> from $startComfort to $endComfort </b> </br></br></br>
+
+
+Temperature difference with respect to previous days: </br>
+<b> DeltaT_min  = $Tmin °C (normal) </b></br>
+<!--<b> DeltaT_med = $Tmed  (normal) </b></br>
+<b> DeltaT_max  = $Tmax  (not normal) </b></br>--> </br></br>
+
+
+
+<!--
+Estimated internal temperature (assuming no heating): </br>
+
+
+
+<table border="1" style="width:200px">
+  <tr>
+    <th>Time</th>
+    <th>Temperature (&degC)</th>
+    <th>Time</th>
+    <th>Temperature (&degC)</th>
+  </tr>
+  <tr>
+    <td>00:00</td>
+    <td>$tetailast0</td>
+    <td>12:00</td>
+    <td>$tetailast12</td>
+  </tr>
+  <tr>
+    <td>01:00</td>
+    <td>$tetailast1</td>
+    <td>13:00</td>
+    <td>$tetailast13</td>
+  </tr>
+  <tr>
+    <td>02:00</td>
+    <td>$tetailast2</td>
+    <td>14:00</td>
+    <td>$tetailast14</td>
+  </tr>
+  <tr>
+    <td>03:00</td>
+    <td>$tetailast3</td>
+    <td>15:00</td>
+    <td>$tetailast15</td>
+  </tr>
+  <tr>
+    <td>04:00</td>
+    <td>$tetailast4</td>
+    <td>16:00</td>
+    <td>$tetailast16</td>
+  </tr>
+  <tr>
+    <td>05:00</td>
+    <td>$tetailast5</td>
+    <td>17:00</td>
+    <td>$tetailast17</td>
+  </tr>
+  <tr>
+    <td>06:00</td>
+    <td>$tetailast6</td>
+    <td>18:00</td>
+    <td>$tetailast18</td>
+  </tr>
+  <tr>
+    <td>07:00</td>
+    <td>$tetailast7</td>
+    <td>19:00</td>
+    <td>$tetailast19</td>
+  </tr>
+  <tr>
+    <td>08:00</td>
+    <td>$tetailast8</td>
+    <td>20:00</td>
+    <td>$tetailast20</td>
+  </tr>
+  <tr>
+    <td>09:00</td>
+    <td>$tetailast9</td>
+    <td>21:00</td>
+    <td>$tetailast21</td>
+  </tr>
+  <tr>
+    <td>10:00</td>
+    <td>$tetailast10</td>
+    <td>22:00</td>
+    <td>$tetailast22</td>
+  </tr>
+  <tr>
+    <td>11:00</td>
+    <td>$tetailast11</td>
+    <td>23:00</td>
+    <td>$tetailast23</td>
+  </tr>
+</table> -->
+</br>
+<!--
+<table border="1" style="width:200px">
+  <tr>
+    <th>Time</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>$turnOnHour</td>
+    <td>$turnOnValue</td>
+  </tr>
+  <tr>
+    <td>08:00</td>
+    <td>$modality8</td>
+  </tr>
+  <tr>
+    <td>09:00</td>
+    <td>$modality9</td>
+  </tr>
+  <tr>
+    <td>10:00</td>
+    <td>$modality10</td>
+  </tr>
+  <tr>
+    <td>11:00</td>
+    <td>$modality11</td>
+  </tr>
+  <tr>
+    <td>12:00</td>
+    <td>$modality12</td>
+  </tr>
+  <tr>
+    <td>13:00</td>
+    <td>$modality13</td>
+  </tr>
+  <tr>
+    <td>14:00</td>
+    <td>$modality14</td>
+  </tr>
+  <tr>
+    <td>15:00</td>
+    <td>$modality15</td>
+  </tr>
+  <tr>
+    <td>16:00</td>
+    <td>$modality16</td>
+  </tr>
+  <tr>
+    <td>17:00</td>
+    <td>$modality17</td>
+  </tr>
+</table> -->
+
+Suggested turn on/off times:</br></br>
+$stringHtmlModality
+
+</br>
+</br>
+<div STYLE="margin-left: 40%"><img src="http://www.sunshineproject.eu/images/rocketlauncher/frontpage/general/featured-1.png" alt="some_text"></div>
+<div STYLE="margin-left: 45%">Suggestion by <a href="http://www.sunshineproject.eu/">Sunshine Project</a></div>

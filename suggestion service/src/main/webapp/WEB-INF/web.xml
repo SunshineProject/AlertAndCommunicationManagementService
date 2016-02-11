@@ -1,0 +1,53 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+
+<web-app>
+	<display-name>suggestion</display-name>
+	<context-param>
+    	<param-name>hoursTask</param-name>
+    	<param-value>10</param-value>
+    </context-param>
+    <context-param>
+    	<param-name>minutesTask</param-name>
+    	<param-value>00</param-value>
+    </context-param>
+    <context-param>
+    	<param-name>secondsTask</param-name>
+    	<param-value>0</param-value>
+    </context-param>
+	<listener>
+		<listener-class>
+             it.sinergis.sunshine.suggestion.timertask.SchedulerMain 
+        </listener-class>
+    </listener>
+	<servlet>
+		<servlet-name>Jersey Web Application</servlet-name>
+		<servlet-class>com.sun.jersey.spi.container.servlet.ServletContainer</servlet-class>
+		<init-param>
+			<param-name>com.sun.jersey.config.property.resourceConfigClass</param-name>
+			<param-value>com.sun.jersey.api.core.PackagesResourceConfig</param-value>
+		</init-param>
+		<init-param>
+			<param-name>com.sun.jersey.config.property.packages</param-name>
+			<param-value>it.sinergis.sunshine.suggestion.rest</param-value>
+		</init-param>
+		<init-param>
+			<param-name>PATH_LOG</param-name>
+			<param-value>WEB-INF/</param-value>
+		</init-param>		
+		<load-on-startup>1</load-on-startup>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>Jersey Web Application</servlet-name>
+		<url-pattern>/api/*</url-pattern>
+	</servlet-mapping>
+	
+	<welcome-file-list>
+		<!--  <welcome-file>index.jsp</welcome-file> -->
+		<welcome-file>index.html</welcome-file>
+	</welcome-file-list>
+	
+</web-app>

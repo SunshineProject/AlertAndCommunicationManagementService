@@ -1,0 +1,30 @@
+Daily heating schedule suggestion for: </br>
+<b> $buildingName </b> </br></br></br>
+
+Heating suggestion for day:</br>
+<b> $dateNow </b> </br></br></br>
+
+Requested comfort temperature: </br>
+<b> $temperatureRequest &degC </b> </br></br></br>
+
+Requested comfort periods: </br>
+<b> from $startComfort to $endComfort </b> </br></br></br>
+
+
+Temperature difference with respect to previous days: </br>
+<b> DeltaT_min  = $Tmin &degC  </b></br>
+<!--<b> DeltaT_med = $Tmed  (normal) </b></br>
+<b> DeltaT_max  = $Tmax  (not normal) </b></br>--> </br></br>
+
+
+
+
+</br>
+
+Suggested turn on/off times:</br></br>
+$stringHtmlModality
+
+</br>
+</br>
+<div STYLE="margin-left: 40%"><img src="http://www.sunshineproject.eu/images/rocketlauncher/frontpage/general/featured-1.png" alt="some_text"></div>
+<div STYLE="margin-left: 45%">Suggestion by <a href="http://www.sunshineproject.eu/">Sunshine Project</a></div>
